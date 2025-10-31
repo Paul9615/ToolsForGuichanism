@@ -2,6 +2,10 @@
 
 window user들을 위한 귀찮음 방지 tool 모음들 (_made with GPT and Gemini_)
 
+
+
+Source code는 본 directory의 src 파일에 있습니다.
+
 ## 1. 올ㅋ사전 for window
 
 <img src=".\figs\exe_dict.png" style="zoom:40%;" />

@@ -27,6 +27,7 @@ Source code는 본 directory의 src 폴더에 있습니다.
 - 맨날 papago 따로 틀기 귀찮아서 올ㅋ사전을 papago 버전으로 만들었음
 - 물론 올ㅋ사전 코드에 papgo link를 copy&paste해서 만듦(5초컷)
 - ~~근데 창이 너무 커서 수정 중임~~
+- 수정: papgo 번역질이 안 좋아서 google translator로 변경함
 
 ## 적용 방법
 
@@ -46,6 +47,7 @@ Source code는 본 directory의 src 폴더에 있습니다.
 ## Release Note
 
 10/31/2025; initial publish
+04/20/2026; Change the translator(Papago -> Google)
 
 ## To-Do
 

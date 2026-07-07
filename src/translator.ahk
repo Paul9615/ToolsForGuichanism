@@ -12,8 +12,8 @@
 
     WinRestore, %dictionaryTitle%
     ; 현재 모니터의 해상도 구하기
-    SysGet, screenWidth, 15
-    SysGet, screenHeight, 25
+    SysGet, screenWidth, 78
+    SysGet, screenHeight, 79
 
     ; 우측 상단 위치 계산 (화면의 오른쪽 위 모서리 기준) -> 좌측 상단으로 감;;;
     winWidth := 395
